@@ -1,0 +1,21 @@
+.bc{background-image: url(img/hero-section-banner.jpg); height: 650px;width: 100%;background-position: center;background-size: cover;background-attachment: fixed;} 
+
+.y{color: white;}
+.y:hover{color:yellow;}
+
+.btn{height: 50px;width: 250px;background-color:#ffca0f;color: rgb(230, 228, 228);}
+.btn:hover{height: 50px;width: 250px;background-color: #ffca0f;color:black;}
+
+.md{height: 80px;}
+
+@media(max-width:500px){
+    .md{height: 30px;}
+
+}
+
+
+.btn1{height: 50px;width: 50px;background-color:#ffca0f;color: rgb(230, 228, 228);border: none;}
+.btn1:hover{height: 50px;width: 50px;background-color: #ecba08;color:black;border: none;}
+
+
+
